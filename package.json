@@ -1,0 +1,25 @@
+{
+    "author": "tomits",
+    "dependencies": {},
+    "keywords": [],
+    "name": "tomits",
+    "pebble": {
+        "displayName": "Tomits Time Countdown",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "5e0557e8-5621-495e-9478-698ad46f62c8",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
